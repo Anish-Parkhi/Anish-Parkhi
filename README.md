@@ -1,4 +1,4 @@
-[![@anishparkhi03's Holopin board](https://holopin.io/api/user/board?user=anishparkhi03)](https://holopin.io/@anishparkhi03)
+
 # 💫 About Me:
 - 👋 Hi, I’m @Anish-Parkhi<br>- 👀 I’m interested in open source development <br>- 🏫 I'm Software engineering student at SRM Chennai<br>- 🌱 I’m currently learning Frontend web development<br>- 🏢 I'm currently working as Project Intern at Rubiscape<br>
 
